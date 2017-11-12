@@ -1,3 +1,1 @@
-class Scooter{
-  constructor(year, color, model)
-}
+function Scooter(year, color, model)
